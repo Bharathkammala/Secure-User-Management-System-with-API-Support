@@ -6,7 +6,7 @@ A modular and secure user management system built using **C#**, **ASP.NET Web Fo
 
 ## 💡 Features
 
-- 👥 **Role-Based Access**: Supports Admin, User, and Guest roles
+
 - 🔐 **Login & Registration**:
   - OTP verification via Twilio (SMS/WhatsApp)
   - Email passcode verification via Gmail SMTP
